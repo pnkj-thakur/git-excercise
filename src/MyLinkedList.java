@@ -1,4 +1,4 @@
-// Final assignment demo
+// Final assignment for integration project 1 course
 public class MyLinkedList {
     static class Node {
         int data;
