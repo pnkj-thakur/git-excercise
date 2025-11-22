@@ -1,4 +1,4 @@
-// Final Demo
+// Final assignment demo
 public class MyLinkedList {
     static class Node {
         int data;
